@@ -1,0 +1,71 @@
+﻿  Menú.cpp
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJugador.h(23): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJugador.h(35): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CEnemigo.h(16): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CEnemigo.h(24): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CEnemigo.h(45): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJuego.h(35): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJuego.h(52): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJuego.h(65): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJuego.h(138): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJuego.h(152): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJuego.h(158): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJuego.h(183): warning C4018: '>': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJuego.h(215): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CLista.h(146): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CLista.h(138): note: durante la compilación de la función miembro de plantilla de clase 'void Lista<CBala *,0x0>::eliminaPos(uint)'
+  c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJugador.h(76): note: vea la referencia a la creación de instancias de plantilla de función 'void Lista<CBala *,0x0>::eliminaPos(uint)' que se está compilando
+  c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJugador.h(14): note: vea la referencia a la creación de instancias de plantilla de clase 'Lista<CBala *,0x0>' que se está compilando
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CLista.h(172): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CLista.h(169): note: durante la compilación de la función miembro de plantilla de clase 'CBala Lista<CBala *,0x0>::obtenerPos(uint)'
+  c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJugador.h(25): note: vea la referencia a la creación de instancias de plantilla de función 'CBala Lista<CBala *,0x0>::obtenerPos(uint)' que se está compilando
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CLista.h(92): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CLista.h(85): note: durante la compilación de la función miembro de plantilla de clase 'void Lista<CBala *,0x0>::agregaPos(T,uint)'
+          with
+          [
+              T=CBala *
+          ]
+  c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CLista.h(104): note: vea la referencia a la creación de instancias de plantilla de función 'void Lista<CBala *,0x0>::agregaPos(T,uint)' que se está compilando
+          with
+          [
+              T=CBala *
+          ]
+  c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CLista.h(56): note: durante la compilación de la función miembro de plantilla de clase 'Lista<CBala *,0x0>::~Lista(void)'
+  c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJugador.h(40): note: vea la referencia a la creación de instancias de plantilla de función 'Lista<CBala *,0x0>::~Lista(void)' que se está compilando
+  MyForm.cpp
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJugador.h(23): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJugador.h(35): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CEnemigo.h(16): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CEnemigo.h(24): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CEnemigo.h(45): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJuego.h(35): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJuego.h(52): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJuego.h(65): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJuego.h(138): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJuego.h(152): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJuego.h(158): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJuego.h(183): warning C4018: '>': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJuego.h(215): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CLista.h(146): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CLista.h(138): note: durante la compilación de la función miembro de plantilla de clase 'void Lista<CBala *,0x0>::eliminaPos(uint)'
+  c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJugador.h(76): note: vea la referencia a la creación de instancias de plantilla de función 'void Lista<CBala *,0x0>::eliminaPos(uint)' que se está compilando
+  c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJugador.h(14): note: vea la referencia a la creación de instancias de plantilla de clase 'Lista<CBala *,0x0>' que se está compilando
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CLista.h(172): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CLista.h(169): note: durante la compilación de la función miembro de plantilla de clase 'CBala Lista<CBala *,0x0>::obtenerPos(uint)'
+  c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJugador.h(25): note: vea la referencia a la creación de instancias de plantilla de función 'CBala Lista<CBala *,0x0>::obtenerPos(uint)' que se está compilando
+c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CLista.h(92): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CLista.h(85): note: durante la compilación de la función miembro de plantilla de clase 'void Lista<CBala *,0x0>::agregaPos(T,uint)'
+          with
+          [
+              T=CBala *
+          ]
+  c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CLista.h(104): note: vea la referencia a la creación de instancias de plantilla de función 'void Lista<CBala *,0x0>::agregaPos(T,uint)' que se está compilando
+          with
+          [
+              T=CBala *
+          ]
+  c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CLista.h(56): note: durante la compilación de la función miembro de plantilla de clase 'Lista<CBala *,0x0>::~Lista(void)'
+  c:\users\hp\documents\visual studio 2015\projects\trabajo parcial\trabajo parcial\CJugador.h(40): note: vea la referencia a la creación de instancias de plantilla de función 'Lista<CBala *,0x0>::~Lista(void)' que se está compilando
+  Generando código...
+  Trabajo Parcial.vcxproj -> C:\Users\HP\documents\visual studio 2015\Projects\TRABAJO PARCIAL\Debug\Trabajo Parcial.exe
+  Trabajo Parcial.vcxproj -> C:\Users\HP\documents\visual studio 2015\Projects\TRABAJO PARCIAL\Debug\Trabajo Parcial.pdb (Full PDB)
